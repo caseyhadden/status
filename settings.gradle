@@ -1,0 +1,1 @@
+include 'status-api', 'status-client', 'status-service'
